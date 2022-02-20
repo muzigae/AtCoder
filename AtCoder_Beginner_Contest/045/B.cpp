@@ -17,5 +17,4 @@ int main() {
         int next_player = C[player].front();
         C[player].pop(); player = next_player;
     }
-    return 0;
 }
